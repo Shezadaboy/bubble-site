@@ -156,16 +156,17 @@ body{
         padding: 30px 30px;
     }
     .text {
-        margin-top: 60px;
+        margin-top: 90px;
+        text-align: center;
         padding: 0 40px;
     }
     .text h1 {
-        font-size: 2.5em;
+        font-size: 4em;
         color: #fff;
         margin-bottom: 40px;
     }
     .main .logo {
-        width: 90px;
+        width: 120px;
     }
     .main .btn {
         padding: 5px 10px;
